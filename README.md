@@ -17,5 +17,5 @@ Built an iPod Web App using React.js.
 
 ## Deployment
 
-To run the app: https://shubhampoddar01.github.io/iPod-Web-App/
+To run the app: https://ipodmini.netlify.app/
 
